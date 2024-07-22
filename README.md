@@ -16,7 +16,7 @@ This Jupyter notebook aims to validate the solutions of the Einstein Field Equat
 1. **Open the Notebook**
    Open the Jupyter notebook `VEFE.ipynb` in Jupyter Notebook or JupyterLab:
    ```bash
-   jupyter notebook VEFE.ipynb
+   jupyter-notebook VEFE.ipynb
    ```
 
 2. **Run the Cells Sequentially**
