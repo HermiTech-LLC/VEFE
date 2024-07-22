@@ -12,7 +12,9 @@ This Jupyter notebook aims to validate the solutions of the Einstein Field Equat
 - Matplotlib
 - TensorFlow/Keras
 ___
-![img](
+![img](https://github.com/HermiTech-LLC/VEFE/blob/main/Efe.jpg)
+___
+
 ## Steps to Use the Notebook
 1. **Open the Notebook**
    Open the Jupyter notebook `VEFE.ipynb` in Jupyter Notebook or JupyterLab:
